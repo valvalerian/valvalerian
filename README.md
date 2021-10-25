@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valvalerian
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Scientist
 - 🌱 I’m always learning :)
 
 
